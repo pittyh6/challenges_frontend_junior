@@ -8,6 +8,15 @@ body {
     font-weight: 700;
     color: rgba(0, 0, 0, 0.562)!important;
     text-align: center!important;
+    background-image: url(../images/bg-top.svg);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.main-content {
+    background-image: url(../images/bg-bottom.svg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
 }
 
 h2 {
